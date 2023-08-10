@@ -20,7 +20,7 @@ timezone:
 
 title: SecDoggo # the main title
 
-tagline: Just your friendly CyberSec doggo! # it will display as the sub-title
+tagline: Just your friendly neighborhood CyberSec doggo! # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
