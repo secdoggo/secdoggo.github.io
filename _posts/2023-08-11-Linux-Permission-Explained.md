@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Linux Permissions Explained"
 date: "2023-08-11 05:02:11 -0800"
 categories: Linux
